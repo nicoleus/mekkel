@@ -1,8 +1,6 @@
 # About:
 Multi-bruteforce-facebook
 
-Author Pirmansx
-
 BATAKCYBER  team
 
 Uploaded & translated by NICOLEUS F SITORUS
