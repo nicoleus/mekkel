@@ -1,11 +1,4 @@
 # About:
-Multi-bruteforce-facebook
-
-BATAKCYBER  team
-
-Uploaded & translated by NICOLEUS F SITORUS
-
-
 # installation & usage:
 
 apt update
